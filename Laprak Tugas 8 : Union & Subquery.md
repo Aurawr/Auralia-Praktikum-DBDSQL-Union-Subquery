@@ -2,6 +2,7 @@
 Berikut adalah langkah-langkah praktikum materi Union dan Subquery yang telah dibuat.
 
 ## Langkah-Langkah Praktikum
+## UNION
 ### 1. Tambahkan Data Pada Table Mahasiswa Sesuai dengan Data Pada Modul.
 ```
 INSERT INTO mahasiswa values
@@ -72,6 +73,7 @@ Pada kode ini juga menggunakan perintah `union` dan untuk bagian mahasiswa pinda
 
 ![WhatsApp Image 2023-11-18 at 07 28 58_40e4a1ad](https://github.com/Aurawr/Auralia-Praktikum-DBDSQL-Union-Subquery/assets/133871441/71676953-1d4e-49a3-b843-bf4c8cf1daf5)
 
+## SUBQUERY
 ### 6. Menampilkan Data Mahasiswa yang Memiliki Kota Lahir yang Sama dengan Mahasiswa Pindahan dengan Nama BUDI
 Menampilkan NIM, Nama dan Angkatan dari Mahasiswa yang memiliki Kota Lahir yang sama dengan Mahasiswa Pindahan dengan nama BUDI. Data tersebut dapat ditampilkan dengan kode berikut.
 ```
